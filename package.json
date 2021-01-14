@@ -1,6 +1,6 @@
 {
   "name": "lipseys-api",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Integrations for https://api.lipseys.com",
   "main": "index.js",
   "scripts": {},
@@ -8,5 +8,6 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.0"
-  }
+  },
+  "homepage": "https://github.com/Lipseys/LipseysApiIntegrationNodeJs"
 }
