@@ -1,0 +1,12 @@
+{
+  "name": "lipseys-api",
+  "version": "1.2.1",
+  "description": "Integrations for https://api.lipseys.com",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Lipsey's INC",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
